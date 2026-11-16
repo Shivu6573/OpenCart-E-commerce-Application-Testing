@@ -10,7 +10,7 @@ The project follows a structured software testing process, including requirement
 - **Application:** OpenCart Demo Store
 - **Testing Type:** Manual Testing
 - **Domain:** E-commerce
-- **Tools:** Microsoft Excel, PostgreSQL, SQL, Azure DevOps
+- **Tools:** Microsoft Excel, PostgreSQL, SQL
 
 ## Project Activities
 
