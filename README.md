@@ -1,5 +1,4 @@
 # OpenCart-E-commerce-Application-Testing
-# OpenCart E-commerce Application Testing
 
 ## Project Overview
 This project focuses on manual testing of the OpenCart demo e-commerce application to understand and evaluate its core functionalities, identify defects, and verify expected application behaviour.
